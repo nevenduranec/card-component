@@ -11,7 +11,5 @@ module.exports = {
         ecmaVersion: 2017,
     },
     extends: ['prettier', 'plugin:prettier/recommended'],
-    plugins: [],
-    // add your custom rules here
     rules: { indent: ['error', 4] },
 }
