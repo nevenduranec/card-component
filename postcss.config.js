@@ -19,8 +19,8 @@ module.exports = {
          * Adds vendor prefixes to css attributes
          * https://github.com/postcss/autoprefixer
          */
-        autoprefixer(),
         require('postcss-nested'),
         require('postcss-pxtorem'),
+        autoprefixer(),
     ],
 }

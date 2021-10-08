@@ -10,7 +10,6 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
     -   [Links](#links)
 -   [My process](#my-process)
     -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
 -   [Author](#author)
 
 ## Overview
@@ -35,23 +34,8 @@ Users should be able to:
 ### Built with
 
 -   CSS vars
--   Min/max for font size (`min(max(20px, 4vw), 22px);`)
 -   PostCSS - [postcss-nested](https://github.com/postcss/postcss-nested), [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem), [autoprefixer](https://github.com/postcss/autoprefixer)
 -   Webpack
-
-### What I learned
-
-Animating text decoration with CSS Houdini
-
-```css
-@property --offset {
-    syntax: '<length>';
-    inherits: false;
-    initial-value: 0;
-}
-```
-
-Find out more about this on the [CSS in Real Life blog post](https://css-irl.info/animating-underlines/)
 
 ## Author
 
