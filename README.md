@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 -   [Solution URL - Github](https://github.com/nevenduranec/card-component)
--   [Live Site URL](https://world-countries-iota.vercel.app/)
+-   [Live Site URL](https://card-component-peach.vercel.app/)
 
 ## My process
 
